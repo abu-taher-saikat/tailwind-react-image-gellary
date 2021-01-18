@@ -1,0 +1,6 @@
+1#  npx create-react-app .
+2#  follow this website https://tailwindcss.com/docs/guides/create-react-app
+3#  if show eslint error. just add. this three line into settings.json file
+            "css.lint.unknownAtRules": "ignore",
+            "css.validate": true,
+            "scss.validate": true,
